@@ -5,6 +5,10 @@
 ### 1 React
 ### 2 React Query
 
+## Base URLS Used
+
+#### -https://jsonplaceholder.typicode.com
+#### -https://reqres.in/api
 
 
 ## Available Scripts
