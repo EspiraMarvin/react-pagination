@@ -10,6 +10,14 @@
 #### -https://jsonplaceholder.typicode.com
 #### -https://reqres.in/api
 
+#### Example 3
+
+Images:
+
+![Pagination Component](screenshot1.png)
+
+![Pagination in React](screenshot2.png)     
+
 
 ## Available Scripts
 
